@@ -16,7 +16,7 @@ So I put the left quote marks on the left bracket `[`, and the right quote marks
 - Copy `British keyboard layout with custom quote marks.bundle` to:
     - `~/Library/Keyboard Layouts/` to install it for just your user account
     - `/Library/Keyboard Layouts/` to install it for all accounts on your computer
-- Open _System Preferences_ ▶ _Keyboard_ ▶ _Input sources_
+- Open _System Preferences_ ▸ _Keyboard_ ▸ _Input sources_
 - Add _British with custom quote marks_
 - Remove _British_ if you like (sometimes the OS switches back to it randomly)
 
